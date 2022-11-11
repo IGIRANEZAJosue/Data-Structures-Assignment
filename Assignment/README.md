@@ -1,3 +1,15 @@
+
+##Group Members:
+  221018959
+  221008663
+  221026624
+  221015343
+                
+##Main File is in the src folder                
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
